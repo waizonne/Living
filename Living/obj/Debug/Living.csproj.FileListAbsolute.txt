@@ -1,0 +1,170 @@
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\ApplicationInsights.config
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\csc.exe
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\System.Collections.Immutable.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\vbc.exe
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\VBCSCompiler.exe
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\roslyn\VBCSCompiler.exe.config
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Living.dll.config
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Living.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Living.pdb
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Antlr3.Runtime.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\EntityFramework.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\EntityFramework.SqlServer.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.Web.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.WindowsServer.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.ApplicationInsights.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Google.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Web.Infrastructure.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Newtonsoft.Json.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Owin.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Helpers.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Mvc.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Optimization.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Razor.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.Deployment.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.Razor.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\WebGrease.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.Web.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AI.WindowsServer.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.ApplicationInsights.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Helpers.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Mvc.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Optimization.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.Razor.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.Deployment.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\System.Web.WebPages.Razor.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Antlr3.Runtime.pdb
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Newtonsoft.Json.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\EntityFramework.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\EntityFramework.SqlServer.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Google.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\obj\Debug\Living.csprojResolveAssemblyReference.cache
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\obj\Debug\Living.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\obj\Debug\Living.pdb
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Dapper.dll
+c:\users\waizonne\documents\visual studio 2015\Projects\Living\Living\bin\Dapper.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\ApplicationInsights.config
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\csc.exe
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\desktop.ini
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\vbc.exe
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Living.dll.config
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Living.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Living.pdb
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Antlr3.Runtime.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Dapper.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\EntityFramework.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\EntityFramework.SqlServer.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.Web.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Google.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Newtonsoft.Json.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Owin.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Helpers.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Mvc.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Optimization.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Razor.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\WebGrease.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Dapper.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.Web.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.ApplicationInsights.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Helpers.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Mvc.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Optimization.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.Razor.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Antlr3.Runtime.pdb
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Newtonsoft.Json.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\EntityFramework.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\EntityFramework.SqlServer.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Google.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Google Drive\waizonne\Warehouse\Living\Living\obj\Debug\Living.csprojResolveAssemblyReference.cache
+D:\Google Drive\waizonne\Warehouse\Living\Living\obj\Debug\Living.dll
+D:\Google Drive\waizonne\Warehouse\Living\Living\obj\Debug\Living.pdb
+D:\Google Drive\waizonne\Warehouse\Living\Living\obj\Debug\Living.csproj.CoreCompileInputs.cache

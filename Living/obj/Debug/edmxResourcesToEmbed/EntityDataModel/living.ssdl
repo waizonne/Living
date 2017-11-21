@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WarehouseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="House">
+    <Key>
+      <PropertyRef Name="HouseId" />
+    </Key>
+    <Property Name="HouseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HouseNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="Area" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Living">
+    <Key>
+      <PropertyRef Name="LiveId" />
+    </Key>
+    <Property Name="LiveId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HouseId" Type="int" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SearchHistory">
+    <Key>
+      <PropertyRef Name="SearchId" />
+    </Key>
+    <Property Name="SearchId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SearchKey" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SearchDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="FIrstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sex" Type="nvarchar" MaxLength="50" />
+    <Property Name="Salary" Type="int" />
+  </EntityType>
+  <EntityContainer Name="WarehouseModelStoreContainer">
+    <EntitySet Name="House" EntityType="Self.House" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Living" EntityType="Self.Living" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SearchHistory" EntityType="Self.SearchHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

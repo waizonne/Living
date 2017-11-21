@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create @ViewBag.Name</h2>
+
+<div class="well form1">
+<label class="alert alert-warning" style="display:none;">กรุณากรอกข้อมูลให้ครบ</label>
+ 
+<div class="row">
+    <div class="col-md-3 hidden-xs">
+        <div class="form-group">
+            <label>House No.:</label>
+            <input type="text" class="form-control" id="HouseNo"/>
+            <label id="HouseNoErr" class="text-red"></label>
+        </div>
+    </div>
+    <div class="col-md-3 hidden-xs">
+        <div class="form-group">
+            <label>Area:</label>
+            <input type="text" class="form-control" id="Area" />
+            <label id="AreaErr" class="text-red"></label>
+        </div>
+    </div>
+    <div class="col-md-6 hidden-xs"></div>
+</div>
+<div class="row">
+    <div class="col-md-12 hidden-xs">
+        <button type="submit" class="btn btn-primary" onclick="create()">เพิ่มข้อมูล</button>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+
+        $('.form1').keypress(function (e) {
+            if (e.keyCode == 13)
+                create();
+        });
+
+
+        function create() {
+            var ck = true;
+
+            if ($("#HouseNo").val() == "") {
+                $("#HouseNoErr").text(getError());
+                $("#HouseNo").addClass("border-red");
+                ck = false;
+            }
+            else {
+                $("#HouseNoErr").text("");
+                $("#HouseNo").removeClass("border-red");
+            }
+
+            if ($("#Area").val() == "") {
+                $("#AreaErr").text(getError());
+                $("#Area").addClass("border-red");
+                ck = false;
+            }
+            else {
+                $("#AreaErr").text("");
+                $("#Area").removeClass("border-red");
+            }
+
+            if (ck) {
+                $(".alert-warning").hide();
+
+                var model = {};
+
+                model.HouseNo = $("#HouseNo").val();
+                model.Area = $("#Area").val();
+
+                $.ajax({
+                    url: "@Url.Action("Insert", "House")",
+                    type: "POST",
+                data: { data: JSON.stringify(model) },
+                dataType: 'json',
+                success: function (data) {
+
+                }
+            });
+
+            } else {
+                $(".alert-warning").show();
+            }
+        };
+    </script>
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WarehouseModelStoreContainer" CdmEntityContainer="WarehouseEntities">
+    <EntitySetMapping Name="House">
+      <EntityTypeMapping TypeName="WarehouseModel.House">
+        <MappingFragment StoreEntitySet="House">
+          <ScalarProperty Name="HouseId" ColumnName="HouseId" />
+          <ScalarProperty Name="HouseNo" ColumnName="HouseNo" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Living">
+      <EntityTypeMapping TypeName="WarehouseModel.Living">
+        <MappingFragment StoreEntitySet="Living">
+          <ScalarProperty Name="LiveId" ColumnName="LiveId" />
+          <ScalarProperty Name="HouseId" ColumnName="HouseId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SearchHistory">
+      <EntityTypeMapping TypeName="WarehouseModel.SearchHistory">
+        <MappingFragment StoreEntitySet="SearchHistory">
+          <ScalarProperty Name="SearchId" ColumnName="SearchId" />
+          <ScalarProperty Name="SearchKey" ColumnName="SearchKey" />
+          <ScalarProperty Name="SearchDate" ColumnName="SearchDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="WarehouseModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="FIrstName" ColumnName="FIrstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
